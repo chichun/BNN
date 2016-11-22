@@ -1,0 +1,176 @@
+body{
+  width:88.88%;
+  margin:0px auto;
+}
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  width:980px;
+}
+
+
+.site-nav {
+  position: relative;
+  display:inline-block;
+  width: 100%;
+
+}
+
+.site-nav ul{
+  margin:0px;
+  padding:0px;
+}
+
+.site-nav li{
+  /*display:inline;*/
+  list-style: none;
+  font-size:30px;
+  color:#000000;
+  font-family:Arial MT;
+  float:left;
+}
+
+.logo{
+  margin-top:100px;
+  padding-right:197px;
+  padding-bottom:0px;
+  margin-bottom: 22px;
+}
+
+.list{
+  margin-top: 176px;
+  margin-bottom: 19px;
+}
+.woman{
+  padding-right:65px;
+  /*margin-bottom:26px;*/
+}
+.man{
+  padding-right:70px;
+}
+.kids{
+  padding-right:73px;
+}
+.baby{
+  padding-right:60px;
+}
+hr{
+  margin-left: -22.5%;
+  margin-top: 0px;
+
+}
+
+.center-pic{
+  text-align:center;
+  width: auto;
+  height: auto;
+  margin-top:26px;
+}
+
+.new-area{
+  text-align:center;
+  /*width: auto;*/
+  height: 555px;
+  margin: 0px auto;
+  /*left:auto;*/
+  /*right:auto;*/
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.new-area ul{
+  list-style: none;
+  margin:0px auto;
+  padding: 0px;
+
+}
+
+.new-area li{
+  float: left;
+}
+
+.T-shirt{
+  padding-right:70px;
+}
+
+.jeans{
+  padding-right:70px;
+}
+
+.name{
+  font-family:Microsoft Ya Hei Ul;
+  font-size:30px;
+  color:#000000;
+}
+
+.characteristic{
+  font-family:Microsoft Ya Hei Ul;
+  font-size:24px;
+  color:#000000;
+}
+
+.recommend-area{
+  text-align:center;
+  width: auto;
+  height: auto;
+
+}
+
+.recommend-area ul{
+  list-style:none;
+  margin:0px auto;
+  padding:0px;
+}
+
+.recommend-area li{
+  float:left;
+}
+
+.coat{
+  padding-right:70px;
+}
+
+.fleece{
+  padding-right:70px;
+}
+
+.mark{
+  text-align:left;
+  font-size:30px;
+  font-family:Arial MT;
+}
+
+.sale{
+  font-family:Microsoft Ya Hei Ul;
+  font-size:48px;
+  color:#E72D2D;
+}
+
+footer{
+  width:100%;
+
+  float:left;
+
+}
+
+footer ul{
+  padding:0px;
+  margin-top:30px;
+  margin-bottom:31px;
+}
+
+footer li{
+  display:inline;
+  font-family:Microsoft Ya Hei Ul;
+  font-size:30px;
+  color:#060606;
+}
+
+.contact{
+  padding-right:31px;
+}
+
+.clear{
+  clear:both;
+}
