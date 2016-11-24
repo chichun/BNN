@@ -27,7 +27,7 @@ body{
   list-style: none;
   font-size:30px;
   color:#000000;
-  font-family:Arial MT;
+  font-family:Arial Black;
   float:left;
 }
 
@@ -99,13 +99,13 @@ hr{
 }
 
 .name{
-  font-family:Microsoft Ya Hei Ul;
+  font-family:Arial Black;
   font-size:30px;
   color:#000000;
 }
 
 .characteristic{
-  font-family:Microsoft Ya Hei Ul;
+  font-family:Arial Black;
   font-size:24px;
   color:#000000;
 }
@@ -138,11 +138,11 @@ hr{
 .mark{
   text-align:left;
   font-size:30px;
-  font-family:Arial MT;
+  font-family:Arial Black;
 }
 
 .sale{
-  font-family:Microsoft Ya Hei Ul;
+  font-family:Arial Black;
   font-size:48px;
   color:#E72D2D;
 }
@@ -162,7 +162,7 @@ footer ul{
 
 footer li{
   display:inline;
-  font-family:Microsoft Ya Hei Ul;
+  font-family:Arial Black;
   font-size:30px;
   color:#060606;
 }
